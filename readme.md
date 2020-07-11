@@ -8,4 +8,4 @@
 
 ---
 
-| <img src="img/valid-xhtmlbluebasic10-blue.png"/> | <img src="img/netscape_now01.gif"/> |
+| <img src="img/valid-xhtmlbasic10-blue.png"/> | <img src="img/netscape_now01.gif"/> |
