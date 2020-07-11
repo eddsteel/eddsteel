@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://eddsteel.com/personal-home-page/counter.php"/>
+<img src="https://eddsteel.com/personal-home-page/counter.php?donotcache"/>
 
 ---
 
