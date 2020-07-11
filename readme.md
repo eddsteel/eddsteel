@@ -8,4 +8,4 @@
 
 ---
 
-| <img src="img/valid-xhtmlbasic10-blue.png"/> | <img src="img/netscape_now01.gif"/> |
+<img src="img/xhtml.png"/> <img src="img/netscape.gif"/> <img src="img/emacs.gif"/> <img src="img/secure.png" />
