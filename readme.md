@@ -8,4 +8,4 @@
 
 ---
 
-<img src="img/xhtml.png"/> <img src="img/netscape.gif"/> <img src="img/emacs.png"/> <img src="img/secure.png" />
+<img src="https://eddsteel.com/personal-home-page/img/xhtml.png"/> <img src="https://eddsteel.com/personal-home-page/img/netscape.gif"/> <img src="https://eddsteel.com/personal-home-page/img/emacs.png"/> <img src="https://eddsteel.com/personal-home-page/img/secure.png" />
