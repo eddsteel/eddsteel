@@ -8,4 +8,4 @@
 
 ---
 
-<img src="https://eddsteel.com/personal-home-page/under-construction.gif"/>
+|<img src="img/validxhtmlbluebasic10-blue.png"/>|<img src="img/netscape_now01.gif"/>|
